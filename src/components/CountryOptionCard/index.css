@@ -1,0 +1,35 @@
+.country-option-card {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 40px 10px 40px;
+  border-bottom: 1px solid #334155;
+}
+
+.name {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+}
+
+.visited {
+  color: #94a3b8;
+  font-family: 'Roboto';
+  font-size: 16px;
+  padding-top: 8px;
+  width: 80px;
+  height: 35px;
+  text-align: center;
+  margin: 0px;
+}
+
+.visit {
+  background-color: #3b82f6;
+  color: #ffffff;
+  border-radius: 5px;
+  font-family: 'Roboto';
+  border: 0px;
+  width: 80px;
+  height: 35px;
+  text-align: center;
+}
